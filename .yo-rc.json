@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Jeremy Henault",
+        "email": "jeremy@jhenault.net"
+      },
+      "libraryName": {
+        "original": "angular-url-params",
+        "camelized": "angularUrlParams",
+        "dasherized": "angular-url-params",
+        "slugified": "angular-url-params",
+        "parts": [
+          "angular",
+          "url",
+          "params"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/angular-url-params",
+      "libraryUnitTestDirectory": "test/unit/angular-url-params",
+      "libraryUnitE2eDirectory": "test/e2e/angular-url-params"
+    }
+  }
+}
